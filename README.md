@@ -31,6 +31,9 @@ T```his repository contains materials including:```
 
 ```🔴 Data insights:```
 
+![EDA part](https://user-images.githubusercontent.com/100744141/183376062-a7967ec8-8066-498d-abf9-bbc58849c0fb.png)
+
+
 ```Original data:```
 
 ```Male: 3555```
