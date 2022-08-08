@@ -69,3 +69,15 @@ T```his repository contains materials including:```
 ```Monthly customers are more likely to churn ```
 ```Female Monthly customers are more likely to churn as comapred to the male monthly customers.```
 ```Male  2 yearly customers are more likely to churn as compared to the female 2yearly customers.```
+
+
+
+
+
+
+```🔴 Machine learning part: Churn Prediction```
+
+
+
+![image](https://user-images.githubusercontent.com/100744141/183367044-9fc82a28-010a-4b97-b9ac-d4a4f1e5daac.png)
+
