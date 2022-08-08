@@ -29,7 +29,7 @@ T```his repository contains materials including:```
 ![image](https://user-images.githubusercontent.com/100744141/183362283-dc10eadb-d710-4196-b634-6f781c267ff8.png)
 
 
-```Data insights:```
+```🔴 Data insights:```
 
 ```Original data:```
 
